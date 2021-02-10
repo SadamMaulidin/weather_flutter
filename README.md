@@ -1,6 +1,8 @@
 # weather_app
 
-A new Flutter application.
+Pantau cuaca terkini dan akan datang dengan aplikasi ini
+
+![screenshot](weather.jpg)
 
 ## Getting Started
 
